@@ -7,4 +7,4 @@ In the Proteome Discoverer consensus workflow, create a scripting node. The "Pat
 
 The workflow should have MultiPSM search enabled, and the heavy and light modification names should include the substrings "heavy" and "light" as appropriate.
 
-The output of the script is a tsv file with the suffix "_Processed_SOL_{timestamp}.tsv".
+The output of the script is a tsv file with the suffix "_Processed_SOL__{timestamp}.tsv".
